@@ -1,0 +1,14 @@
+coverage.txt
+.envrc
+/bin/
+/pkg/
+**/*.swp
+.idea/
+/data/
+/tmp/
+*.pyc
+mktsdb/
+marketstore
+*.exe
+*.test
+.vscode
